@@ -3,7 +3,6 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import path from "path";
 import checker from "vite-plugin-checker";
-// @ts-expect-error - No type declarations for custom plugin
 
 import dns from "node:dns";
 
